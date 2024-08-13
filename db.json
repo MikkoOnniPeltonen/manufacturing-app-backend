@@ -1,0 +1,72 @@
+{
+    "productionLines": [
+        {
+            "name": "Brewed Coffee",
+            "id": 1,
+            "capacity": 2500 
+        },
+        {
+            "name": "Iced Tea",
+            "id": 2,
+            "capacity": 5000 
+        },
+        {
+            "name": "Souped Blueberry",
+            "id": 3,
+            "capacity": 15000 
+        }
+    ],
+
+    "products": [
+        {
+            "name": "Cappuccino",
+            "productionLineId": 1
+        },
+        {
+            "name": "Americano",
+            "productionLineId": 1
+        },
+        {
+            "name": "Espresso",
+            "productionLineId": 1
+        },
+        {
+            "name": "Double Espresso",
+            "productionLineId": 1
+        },
+        {
+            "name": "Mango",
+            "productionLineId": 2
+        },
+        {
+            "name": "Peach",
+            "productionLineId": 2
+        },
+        {
+            "name": "Mint",
+            "productionLineId": 2
+        },
+        {
+            "name": "Pineapple",
+            "productionLineId": 2
+        },
+        {
+            "name": "Licorice",
+            "productionLineId": 3
+        },
+        {
+            "name": "White Chocolate",
+            "productionLineId": 3
+        },
+        {
+            "name": "Salted Caramel",
+            "productionLineId": 3
+        },
+        {
+            "name": "Whip Cream",
+            "productionLineId": 3
+        }
+
+    ]
+
+}
