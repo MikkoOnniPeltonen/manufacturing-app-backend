@@ -74,7 +74,7 @@
     {
       "name": "Salty Liquorice",
       "productionLineId": 3,
-      "description": "Just finnish it already!",
+      "description": "Just finn-ish it already!",
       "id": 9
     },
     {
@@ -109,7 +109,7 @@
     {
       "name": "Decompressed Coffee house",
       "customer_logoURL": "/images/house.png",
-      "contact": "Its too latte to answer",
+      "contact": "It's too Latte to answer",
       "address": "The House that Decaf built",
       "selected_products": [],
       "delivered": [],
@@ -134,13 +134,13 @@
       "id": 4
     },
     {
-      "name": "Haven-T thought of it yet",
+      "name": "Haven't thought of it yet",
       "customer_logoURL": "/images/havent.png",
       "contact": "Yeti",
-      "address": "Himalayas",
-      "id": 5,
+      "address": "The Himalayas",
       "selected_products": [],
-      "delivered": []
+      "delivered": [],
+      "id": 5
     }
   ],
   "sales": [
@@ -152,8 +152,7 @@
     {
       "id": 2,
       "name": "Iced Tea sales",
-      "listedItems": [
-      ]
+      "listedItems": []
     },
     {
       "id": 3,
