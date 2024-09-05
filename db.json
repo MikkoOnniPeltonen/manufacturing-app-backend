@@ -102,8 +102,10 @@
       "customer_logoURL": "/images/coffee.png",
       "contact": "The man",
       "address": "The Star Avenue 1",
-      "selected_products": [],
-      "delivered": [],
+      "selected_products": [
+      ],
+      "delivered": [
+      ],
       "id": 1
     },
     {
@@ -111,10 +113,8 @@
       "customer_logoURL": "/images/house.png",
       "contact": "It's too Latte to answer",
       "address": "The House that Decaf built",
-      "selected_products": [
-      ],
-      "delivered": [
-      ],
+      "selected_products": [],
+      "delivered": [],
       "id": 2
     },
     {
@@ -131,10 +131,8 @@
       "customer_logoURL": "/images/soup.png",
       "contact": "Stilness",
       "address": "Where your heart is",
-      "selected_products": [
-      ],
-      "delivered": [
-      ],
+      "selected_products": [],
+      "delivered": [],
       "id": 4
     },
     {
@@ -142,8 +140,10 @@
       "customer_logoURL": "/images/havent.png",
       "contact": "Yeti",
       "address": "The Himalayas",
-      "selected_products": [],
-      "delivered": [],
+      "selected_products": [
+      ],
+      "delivered": [
+      ],
       "id": 5
     }
   ],
@@ -151,20 +151,17 @@
     {
       "id": 1,
       "name": "Coffee sales",
-      "listedItems": [
-      ]
+      "listedItems": []
     },
     {
       "id": 2,
       "name": "Iced Tea sales",
-      "listedItems": [
-      ]
+      "listedItems": []
     },
     {
       "id": 3,
       "name": "Blueberry soup sales",
-      "listedItems": [
-      ]
+      "listedItems": []
     }
   ],
   "productions": [
@@ -181,8 +178,7 @@
     {
       "id": 3,
       "name": "Blueberry soup production",
-      "inProductionItems": [
-      ]
+      "inProductionItems": []
     }
   ]
 }
